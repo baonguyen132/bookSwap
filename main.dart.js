@@ -30726,7 +30726,7 @@ aL8(a,b,c){return A.bbK(a,b,c)},
 bbK(a,b,c){var s=0,r=A.G(t.H),q=1,p=[],o,n,m,l,k,j,i,h,g
 var $async$aL8=A.C(function(d,e){if(d===1){p.push(e)
 s=q}while(true)switch(s){case 0:q=3
-k=A.cz("https://6f2811f33a1c.ngrok-free.app/api/chat")
+k=A.cz("https://e50ab2dbfd14.ngrok-free.app/api/chat")
 j=t.N
 i=A.a5(["Content-Type","application/json","ngrok-skip-browser-warning","true"],j,j)
 s=6
@@ -30755,7 +30755,7 @@ aLc(a,b,c){return A.bc5(a,b,c)},
 bc5(a,b,c){var s=0,r=A.G(t.H),q=1,p=[],o,n,m,l,k,j,i,h,g,f
 var $async$aLc=A.C(function(d,e){if(d===1){p.push(e)
 s=q}while(true)switch(s){case 0:q=3
-j=A.cz("https://6f2811f33a1c.ngrok-free.app/api/create_question")
+j=A.cz("https://e50ab2dbfd14.ngrok-free.app/api/create_question")
 i=t.N
 h=A.a5(["Content-Type","application/json","ngrok-skip-browser-warning","true"],i,i)
 s=6
